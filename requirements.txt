@@ -1,0 +1,6 @@
+agno>=0.1.0
+sqlalchemy
+ollama
+fastapi
+python-dotenv
+uvicorn
